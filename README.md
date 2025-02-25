@@ -29,5 +29,5 @@
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/voice2sheets.git
+   git clone https://github.com/ESNIK07/voice2sheets.git
    cd voice2sheets
